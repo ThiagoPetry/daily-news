@@ -1,2 +1,1 @@
-# daily-news
-View daily news
+# Daily News
