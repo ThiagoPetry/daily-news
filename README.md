@@ -5,6 +5,11 @@ View and search daily news
 
 <a target='_blank'><img src='https://i.postimg.cc/mDbyZRn8/Screenshot-2023-07-29-at-19-16-05.png' border='0' alt='c'/></a>
 
+## Used libraries
+- styled-components
+- axios
+- lodash
+
 ## Available Scripts
 
 In the project directory, you can run:
